@@ -1,0 +1,363 @@
+body {
+	background-image: url(back1.jpg);
+
+}
+
+#yazi1 {
+	font-size: 26px;
+	margin-left: 345px;
+	margin-top: 57px;
+	color: white;
+}
+
+#yazi2 {
+	font-size: 19px;
+	margin-left: 372px;
+	margin-top: -4px;
+	color: #004444;
+
+}
+
+#kutu1 {
+	width: 281px;
+	height: 122px;
+	background-color: #191919;
+	border-bottom-left-radius: 10px;
+	border-top-left-radius: 10px;
+	margin-top: 2px;
+	margin-left: 362px;
+
+}
+
+#resim1 {
+	margin-left: 643px;
+	margin-top: -135px;
+	border-radius: 10px;
+	border-radius: 25px;
+}
+
+#yazi3 {
+	font-size: 30px;
+	font-family: comic;
+	margin-top: -95px;
+	margin-left: 393px;
+	color:#004444;
+}
+
+#yazi4 {
+	font-size: 30px;
+	font-family: arial;
+	margin-top: -13px;
+	margin-left: 401px;
+	color:white;
+}
+
+
+#yazi5 {
+	font-size: 30px;
+	font-family: comic;
+	margin-top: -40px;
+	margin-left: 428px;
+	color:#CCCCCC;
+}
+
+
+
+#kutu2 {
+	width: 200px;
+	height: 43px;
+	background-color: #2A2A2A;
+	margin-left: 443px;
+	margin-top: -403px;
+
+}
+
+
+
+#kutu3 {
+	width: 200px;
+	height: 43px;
+	background-color: #222222;
+	margin-left: 443px;
+	margin-top: 0px;
+	
+}
+
+
+#kutu4 {
+	width: 200px;
+	height: 43px;
+	background-color: #191919;
+	margin-left: 443px;
+	margin-top: 0px;
+	
+}
+
+#kutu5 {
+	width: 200px;
+	height: 50px;
+	background-color: #111111;
+	margin-left: 443px;
+	margin-top: 0px;
+	
+}
+
+#kutu6 {
+	width: 200px;
+	height: 76px;
+	background-color: #080808;
+	margin-left: 443px;
+	margin-top: 0px;
+	
+}
+
+#kutu7 {
+	width: 200px;
+	height: 98px;
+	background-color: #000000;
+	margin-left: 443px;
+	margin-top: 0px;
+	border-bottom-left-radius: 15px;
+	
+}
+
+
+#yazi6 .yazi61{
+	font-size: 29px;
+	font-family: comic;
+	margin-left: 505px;
+	margin-top: -305px;
+	
+}
+
+#yazi6 .yazi61 a{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: 0.7; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+border-bottom-left-radius: 10px; /* linkin üzerine geldikten sonra da kenarlardaki karelik gider.*/
+border-bottom-right-radius: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+text-decoration: none;
+color: #004444;
+
+
+}
+
+#yazi6 .yazi61 a:hover{
+-webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.1); /*Mozilla scale version*/
+-o-transform:scale(1.1); /*Opera scale version*/
+box-shadow:0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px gray; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla shadow version*/
+opacity: 1;
+border-color: #004444;
+background-color: black;
+
+}
+
+#yazi6 .yazi62{
+	font-size: 29px;
+	font-family: comic;
+	margin-left: 488px;
+	margin-top: 6px;
+	
+}
+
+#yazi6 .yazi62 a{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: 0.7; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+border-bottom-left-radius: 10px; /* linkin üzerine geldikten sonra da kenarlardaki karelik gider.*/
+border-bottom-right-radius: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+text-decoration: none;
+color: #CCCCCC;
+
+
+}
+
+#yazi6 .yazi62 a:hover{
+-webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.1); /*Mozilla scale version*/
+-o-transform:scale(1.1); /*Opera scale version*/
+box-shadow:0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px gray; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla shadow version*/
+opacity: 1;
+border-color: #004444;
+background-color: black;
+
+}
+
+
+#yazi6 .yazi63{
+	font-size: 25px;
+	font-family: comic;
+	margin-left: 519px;
+	margin-top: 16px;
+	
+}
+
+#yazi6 .yazi63 a{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: 0.7; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+border-bottom-left-radius: 10px; /* linkin üzerine geldikten sonra da kenarlardaki karelik gider.*/
+border-bottom-right-radius: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+text-decoration: none;
+color: #CCCCCC;
+
+
+}
+
+#yazi6 .yazi63 a:hover{
+-webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.1); /*Mozilla scale version*/
+-o-transform:scale(1.1); /*Opera scale version*/
+box-shadow:0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px gray; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla shadow version*/
+opacity: 1;
+border-color: #004444;
+background-color: black;
+
+}
+
+
+#yazi6 .yazi64{
+	font-size: 29px;
+	font-family: comic;
+	margin-left: 515px;
+	margin-top: 29px;
+	
+}
+
+#yazi6 .yazi64 a{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: 0.7; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+border-bottom-left-radius: 10px; /* linkin üzerine geldikten sonra da kenarlardaki karelik gider.*/
+border-bottom-right-radius: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+text-decoration: none;
+color: #CCCCCC;
+
+
+
+}
+
+#yazi6 .yazi64 a:hover{
+-webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.1); /*Mozilla scale version*/
+-o-transform:scale(1.1); /*Opera scale version*/
+box-shadow:0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px gray; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla shadow version*/
+opacity: 1;
+border-color: #004444;
+background-color: black;
+
+}
+
+
+
+#kutu8 {
+	width: 350px;
+	height: 390px;
+	margin-top: 35px;
+	margin-left: 643px;
+	background-color: red;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+
+}
+
+
+#son {
+	width: 350px;
+	height: 50px;
+	margin-top: 121px;
+	margin-left: 531px;
+	border-bottom-left-radius: 35px;
+}
+
+#yazison .yazison1{
+	font-size: 15px;
+	font-family: comic;
+	margin-left: 655px;
+	margin-top: -377px;
+	color: #004444;
+}
+
+#yazison .yazison2{
+	font-size: 15px;
+	font-family: comic;
+	margin-left: 655px;
+	margin-top: -34px;
+	color:grey;
+}
+
+#ss {
+	width: 126px;
+	height: 88px;
+	background-color: #222222;
+	margin-top: -159px;
+	margin-left: 993px;
+	border-bottom-right-radius: 15px;
+	border-top-right-radius: 15px;
+
+}
+
+
+#yaz1 {
+	font-size: 26px;
+	font-family: comic;
+	margin-left: 1004px;
+	margin-top: -74px;
+	color:#004444;
+}
+
+
+
+#yaz2 {
+	font-size: 26px;
+	font-family: comic;
+	margin-left: 1070px;
+	margin-top: -30px;
+	color:#004444;
+}
+
+
+#yaz3 {
+	font-size: 22px;
+	font-family: comic;
+	margin-left: 1012px;
+	margin-top: -5px;
+	color:grey;
+}
